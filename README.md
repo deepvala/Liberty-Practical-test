@@ -10,4 +10,6 @@ For frontend, I have made a shortcode named as 'search_books', By integrating th
 
 This Plugin requires 'Advance Custom Field' plugin as this plugin is using custom fields.
 
+I have included the sql file of the project.
+
 Thank You.
